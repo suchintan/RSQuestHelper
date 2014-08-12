@@ -3,7 +3,7 @@ import java.util.Set;
 /**
  * Created by suchintan on 2014-08-11.
  */
-public class Quest {
+public class Quest implements Comparable<Quest>{
     private String name;
     private Difficulty difficulty;
     private String length;
@@ -96,5 +96,11 @@ public class Quest {
         s += getQp() + "\n";
         s += isFinished() ? "Complete" : "Incomplete";
         return s;
+    }
+
+    @Override
+    public int compareTo(Quest o) {
+        return 0;
+
     }
 }

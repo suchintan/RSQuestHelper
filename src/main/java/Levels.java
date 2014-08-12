@@ -4,7 +4,7 @@ import java.util.TreeMap;
 /**
  * Created by suchintan on 2014-08-11.
  */
-public class Levels implements Comparable{
+public class Levels implements Comparable<Levels>{
     private Map<Skill, Integer> levels;
 
     public Levels(Map<String, Integer> levels){
@@ -15,16 +15,28 @@ public class Levels implements Comparable{
         }
     }
 
+    public Levels(String[] levels){
+        this.levels = new TreeMap<Skill, Integer>();
+
+        if(levels.length != Skill.values().length){
+            throw new RuntimeException("Incorrect levels length: " + levels.length + " " + " should be " + Skill.values().length);
+        }
+
+        int c = 0;
+        for(Skill s : Skill.values()){
+            this.levels.put(s, Integer.parseInt(levels[c]));
+            c++;
+        }
+    }
+
     public int getSkillLevel(Skill s){
         return levels.get(s);
     }
 
     @Override
-    public int compareTo(Object o) {
-        Levels other = (Levels) o;
-
+    public int compareTo(Levels other) {
         for(Skill s : Skill.values()){
-            if(!(levels.get(s) >= other.getSkillLevel(s))){
+            if(levels.get(s) < other.getSkillLevel(s)){
                 return -1;
             }
         }
