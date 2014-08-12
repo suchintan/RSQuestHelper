@@ -10,15 +10,12 @@ public class Quest {
     private int qp;
     private Levels levels;
     private String[] items;
-    private Set<Quest> questSet;
+    private String quests;
+    private boolean finished;
 
 
-    public Quest(String name, Difficulty difficulty, String length, int qp, Levels levels){
-        setName(name);
-        setDifficulty(difficulty);
-        setLength(length);
-        setQp(qp);
-        setLevels(levels);
+    public Quest(){
+
     }
 
     public String getName() {
@@ -67,5 +64,37 @@ public class Quest {
 
     public void setItems(String[] items) {
         this.items = items;
+    }
+
+    public String getQuests() {
+        return quests;
+    }
+
+    public void setQuests(String quests) {
+        this.quests = quests;
+    }
+
+    public boolean isFinished() {
+        return finished;
+    }
+
+    public void setFinished(boolean finished) {
+        this.finished = finished;
+    }
+
+    @Override
+    public String toString() {
+        String s = getName() + "\n";
+        s += getDifficulty() + "\n";
+        s += getLength() + "\n";
+        s += getQuests() + "\n";
+        s += getLevels().toString() + "\n";
+        for(String item : getItems()){
+            s += item + " ";
+        }
+        s += "\n";
+        s += getQp() + "\n";
+        s += isFinished() ? "Complete" : "Incomplete";
+        return s;
     }
 }

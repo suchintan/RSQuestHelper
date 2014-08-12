@@ -1,4 +1,5 @@
 import java.util.Map;
+import java.util.TreeMap;
 
 /**
  * Created by suchintan on 2014-08-11.
@@ -6,13 +7,11 @@ import java.util.Map;
 public class Levels implements Comparable{
     private Map<Skill, Integer> levels;
 
-    public Levels(String csv){
-        String[] lvs = csv.split(",");
-        if(lvs.length != Skill.values().length){
-            throw new RuntimeException("Length difference" + lvs.length + " " + Skill.values().length);
-        }
-        for(int c = 0; c < lvs.length; c++){
-            levels.put(Skill.values()[c], Integer.parseInt(lvs[c]));
+    public Levels(Map<String, Integer> levels){
+        this.levels = new TreeMap<Skill, Integer>();
+        for(int c = 0; c < Skill.values().length; c++){
+            Skill s = Skill.values()[c];
+            this.levels.put(s, levels.containsKey(s.toString()) ? levels.get(s.toString()) : Integer.valueOf(0));
         }
     }
 
@@ -30,5 +29,10 @@ public class Levels implements Comparable{
             }
         }
         return 1;
+    }
+
+    @Override
+    public String toString() {
+        return levels.toString();
     }
 }
