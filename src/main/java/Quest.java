@@ -1,3 +1,5 @@
+import java.util.Set;
+
 /**
  * Created by suchintan on 2014-08-11.
  */
@@ -7,6 +9,9 @@ public class Quest {
     private String length;
     private int qp;
     private Levels levels;
+    private String[] items;
+    private Set<Quest> questSet;
+
 
     public Quest(String name, Difficulty difficulty, String length, int qp, Levels levels){
         setName(name);
@@ -54,5 +59,13 @@ public class Quest {
 
     public void setLevels(Levels levels) {
         this.levels = levels;
+    }
+
+    public String[] getItems() {
+        return items;
+    }
+
+    public void setItems(String[] items) {
+        this.items = items;
     }
 }
