@@ -1,3 +1,5 @@
+import java.util.ArrayList;
+import java.util.List;
 import java.util.Map;
 import java.util.TreeMap;
 
@@ -35,16 +37,33 @@ public class Levels implements Comparable<Levels>{
 
     @Override
     public int compareTo(Levels other) {
-        for(Skill s : Skill.values()){
-            if(levels.get(s) < other.getSkillLevel(s)){
-                return -1;
-            }
+        if(getMissingSkills(other).length > 0){
+            return -1;
+        }else{
+            return 1;
         }
-        return 1;
+    }
+
+    public int sum(){
+        int sum = 0;
+        for(Skill s : Skill.values()){
+            sum += levels.get(s);
+        }
+        return sum;
     }
 
     @Override
     public String toString() {
         return levels.toString();
+    }
+
+    public Skill[] getMissingSkills(Levels other) {
+        List<Skill> skills = new ArrayList<Skill>();
+        for(Skill s : Skill.values()){
+            if(levels.get(s) < other.getSkillLevel(s)){
+                skills.add(s);
+            }
+        }
+        return skills.toArray(new Skill[0]);
     }
 }

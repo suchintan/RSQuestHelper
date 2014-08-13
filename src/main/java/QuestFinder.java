@@ -1,7 +1,12 @@
+import org.jsoup.Jsoup;
+import org.jsoup.nodes.Document;
+
 import java.io.BufferedReader;
 import java.io.FileReader;
-import java.util.ArrayList;
-import java.util.List;
+import java.io.InputStreamReader;
+import java.net.URL;
+import java.net.URLConnection;
+import java.util.*;
 
 /**
  * Created by susingh on 8/11/14.
@@ -30,7 +35,62 @@ public class QuestFinder {
             }
             q.setLevels(new Levels(levelsArray));
 
-            System.out.println(q);
+            quests.add(q);
+        }
+
+        URL url = new URL("http://services.runescape.com/m=hiscore_oldschool/index_lite.ws?player=NPE");
+        URLConnection con = url.openConnection();
+
+        BufferedReader br = new BufferedReader(new InputStreamReader(con.getInputStream()));
+
+        List<String> levels = new ArrayList<String>();
+        String in;
+        while((in = br.readLine()) != null){
+            levels.add(in);
+        }
+        levels.remove(0);
+        levels.remove(levels.size()-1);
+
+        Map<String, Integer> map = new HashMap<String, Integer>();
+
+        String[] names = "\"Attack\", \"Defence\", \"Strength\",\"Hitpoints\", \"Ranged\", \"Prayer\",\"Magic\", \"Cooking\", \"Woodcutting\",\"Fletching\", \"Fishing\", \"Firemaking\",\"Crafting\", \"Smithing\", \"Mining\",\"Herblore\", \"Agility\", \"Thieving\",\"Slayer\", \"Farming\", \"Runecrafting\",\"Hunter\", \"Construction\""
+                .replaceAll("\"", "").trim().split(",");
+
+
+        for(int c = 0; c < levels.size(); c++){
+            map.put(names[c].trim(), Integer.parseInt(levels.get(c).split(",")[1]));
+        }
+
+        Levels player = new Levels(map);
+
+        for(Quest q : quests){
+            q.setCanBeCompleted(player);
+        }
+
+        Quest[] questsArray = quests.toArray(new Quest[0]);
+        List<Quest> requirementsMet = new ArrayList<Quest>();
+        List<Quest> requirementsNotMet = new ArrayList<Quest>();
+
+        Arrays.sort(questsArray);
+        for(Quest q : questsArray){
+            if(q.isCanBeCompleted()){
+                requirementsMet.add(q);
+            }else{
+                requirementsNotMet.add(q);
+            }
+        }
+
+        System.out.println("Requirement met:");
+
+        for(Quest q : requirementsMet){
+            System.out.println(q.toString());
+
+        }
+
+        System.out.println("\n\n\nNeed stats to finish");
+
+        for(Quest q : requirementsNotMet){
+            System.out.println(q.toString());
         }
 
     }

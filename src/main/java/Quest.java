@@ -12,6 +12,9 @@ public class Quest implements Comparable<Quest>{
     private String[] items;
     private String quests;
     private boolean finished;
+    private boolean canBeCompleted;
+    private Skill[] missingSkills;
+    private Levels playerLevels;
 
 
     public Quest(){
@@ -82,25 +85,70 @@ public class Quest implements Comparable<Quest>{
         this.finished = finished;
     }
 
+    public boolean isCanBeCompleted() {
+        return canBeCompleted;
+    }
+
+    public void setCanBeCompleted(Levels playerLevels) {
+        canBeCompleted = playerLevels.compareTo(getLevels()) == 1;
+
+        missingSkills = new Skill[0];
+        if(!canBeCompleted){
+            missingSkills = playerLevels.getMissingSkills(getLevels());
+            this.playerLevels = playerLevels;
+        }
+    }
+
     @Override
     public String toString() {
+//        String s = getName() + "\n";
+//        s += getDifficulty() + "\n";
+//        s += getLength() + "\n";
+//        s += getQuests() + "\n";
+//        s += getLevels().toString() + "\n";
+//        for(String item : getItems()){
+//            s += item + " ";
+//        }
+//        s += "\n";
+//        s += getQp() + "\n";
+//        s += isFinished() ? "Complete" : "Incomplete";
+//        return s;
+
         String s = getName() + "\n";
-        s += getDifficulty() + "\n";
-        s += getLength() + "\n";
-        s += getQuests() + "\n";
-        s += getLevels().toString() + "\n";
-        for(String item : getItems()){
-            s += item + " ";
+
+        for(Skill skill : missingSkills) {
+            s = s + skill.toString() + " " + getLevels().getSkillLevel(skill) + " " + playerLevels.getSkillLevel(skill) + "\t";
         }
-        s += "\n";
-        s += getQp() + "\n";
-        s += isFinished() ? "Complete" : "Incomplete";
+
         return s;
     }
 
     @Override
     public int compareTo(Quest o) {
-        return 0;
+        if(isCanBeCompleted() && !o.isCanBeCompleted()){
+            return -1;
+        }
 
+        if(!isCanBeCompleted() && o.isCanBeCompleted()){
+            return 1;
+        }
+
+        if(Difficulty.toInt(o.getDifficulty()) < Difficulty.toInt(getDifficulty())){
+            return 1;
+        }
+
+        if(Difficulty.toInt(o.getDifficulty()) > Difficulty.toInt(getDifficulty())){
+            return -1;
+        }
+
+        if(o.getLevels().sum() < getLevels().sum()){
+            return 1;
+        }
+
+        if(o.getLevels().sum() > getLevels().sum()){
+            return -1;
+        }
+
+        return 0;
     }
 }
