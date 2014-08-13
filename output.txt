@@ -1,0 +1,189 @@
+Requirement met:
+Icthlarin's Little Helper
+
+Rat Catchers
+
+Tail of Two Cats
+
+Wanted!
+
+Witch's House
+
+Merlin's Crystal
+
+Mountain Daughter
+
+Tribal Totem
+
+In Search of the Myreque
+
+Feud
+
+Holy Grail
+
+Shadow of the Storm
+
+Tourist Trap
+
+Shades Of Mort'ton
+
+Forgettable Tale of a Drunken Dwarf
+
+Another Slice of H.A.M.
+
+Lost Tribe
+
+Creature of Fenkenstrain
+
+Golem
+
+Death to the Dorgeshuun
+
+In Aid of the Myreque
+
+Tai Bwo Wannai Trio
+
+Dragon Slayer
+
+Dream Mentor
+
+Fairytale I - Growing Pains
+
+Fight Arena
+
+Throne of Miscellania
+
+Troll Stronghold
+
+Grand Tree
+
+Haunted Mine
+
+Contact!
+
+Mourning's Ends Part II (The Temple Of Light)
+
+RFD – Subquest 1 – Freeing the mountain dwarf
+
+RFD – Subquest 2 – Freeing the goblins
+
+RFD – Subquest 7 – Freeing Sir Amik Varze
+
+RFD – Part 3 - Fights
+
+Roving Elves
+
+RFD – Part 1 – Helping the cook
+
+RFD – Subquest 5 – Freeing Evil Dave
+
+RFD – Subquest 3 – Freeing Pirate Pete
+
+
+
+
+Need stats to finish
+Garden of Tranquillity
+Farming 25 23	
+Sea Slug
+Firemaking 30 15	
+Scorpion Catcher
+Prayer 31 27	
+Big Chompy Bird Hunting
+Ranged 30 8	
+Making History
+Smithing 40 36	
+What Lies Below
+Mining 42 39	Runecrafting 35 23	
+Enlightened Journey
+Farming 30 23	Firemaking 20 15	
+Olaf's Quest
+Firemaking 40 15	Woodcutting 50 27	
+Zogre Flesh Eaters
+Fletching 30 19	Ranged 30 8	
+My Arm's Big Adventure
+Farming 29 23	Magic 61 28	
+Fremennik Trials
+Crafting 40 36	Fletching 25 19	Woodcutting 40 27	
+Spirits of the Elid
+Magic 33 28	Ranged 37 8	
+Watchtower
+Mining 40 39	
+Eyes of Glouphrie
+Magic 46 28	Woodcutting 45 27	
+One Small Favour
+Agility 36 25	
+Giant Dwarf
+Firemaking 16 15	Magic 33 28	
+Cold War
+Agility 30 25	Construction 34 14	
+Animal Magnetism
+Ranged 30 8	Slayer 18 16	Woodcutting 35 27	
+Slug Menace
+Runecrafting 30 23	Slayer 30 16	
+Tears of Guthix
+Firemaking 49 15	Smithing 49 36	
+Fairytale II - Cure a Queen
+Farming 49 23	Herblore 57 19	
+Darkness of Hallowvale
+Agility 26 25	Magic 33 28	Strength 40 37	
+Lunar Diplomacy
+Crafting 61 36	Defence 40 13	Firemaking 49 15	Magic 65 28	Mining 60 39	Woodcutting 55 27	
+Underground Pass
+Ranged 25 8	
+Troll Romance
+Agility 28 25	
+Horror From The Deep
+Agility 35 25	
+Shilo Village
+Agility 32 25	
+Hand in the Sand
+Crafting 49 36	
+Lost City
+Woodcutting 36 27	
+Eadgar's Ruse
+Agility 47 25	Herblore 31 19	
+Royal Trouble
+Agility 40 25	Slayer 40 16	
+Temple of Ikov
+Ranged 40 8	
+Great Brain Robbery
+Construction 30 14	Prayer 50 27	
+King's Ransom
+Defence 65 13	Magic 45 28	
+Between a Rock...
+Defence 30 13	Mining 40 39	Smithing 50 36	
+Fremennik Isles
+Agility 40 25	Crafting 46 36	Construction 20 14	Woodcutting 56 27	
+Devious Minds
+Fletching 50 19	Runecrafting 50 23	Smithing 65 36	
+Cabin Fever
+Agility 42 25	Crafting 45 36	Ranged 40 8	Smithing 50 36	
+Family Crest
+Crafting 40 36	Magic 59 28	Mining 40 39	Smithing 40 36	
+Heroes' Quest
+Cooking 53 32	Fishing 53 40	Herblore 25 19	Mining 50 39	
+Rum Deal
+Crafting 42 36	Farming 40 23	Fishing 50 40	Prayer 47 27	Slayer 42 16	
+Enakhra's Lament
+Crafting 50 36	Firemaking 45 15	Magic 39 28	Mining 45 39	Prayer 43 27	
+RFD – Subquest 4 – Freeing the Lumbridge Guide
+Cooking 40 32	
+Monkey Madness
+Prayer 43 27	
+RFD – Subquest 6 – Freeing Skrach Uglogwee 
+Cooking 41 32	Firemaking 20 15	
+Regicide
+Agility 56 25	
+RFD – Subquest 8 – Freeing King Awowogei
+Agility 48 25	Cooking 70 32	
+Desert Treasure
+Firemaking 50 15	Magic 50 28	Thieving 53 43	
+Mourning's Ends Part I
+Agility 65 25	Ranged 60 8	Thieving 50 43	
+Grim Tales
+Agility 59 25	Farming 45 23	Herblore 52 19	Thieving 58 43	Woodcutting 71 27	
+Swan Song
+Crafting 40 36	Cooking 62 32	Firemaking 42 15	Fishing 62 40	Magic 66 28	Smithing 45 36	
+Legends' Quest
+Agility 50 25	Crafting 50 36	Herblore 45 19	Magic 56 28	Mining 52 39	Prayer 43 27	Smithing 50 36	Strength 50 37	Thieving 50 43	Woodcutting 50 27	
