@@ -5,31 +5,21 @@ Rat Catchers
 
 Tail of Two Cats
 
-Garden of Tranquillity
-
 In Search of the Myreque
 
 Shadow of the Storm
-
-Tourist Trap
 
 Scorpion Catcher
 
 Shades Of Mort'ton
 
-Forgettable Tale of a Drunken Dwarf
-
-Another Slice of H.A.M.
-
-Creature of Fenkenstrain
-
 Golem
-
-Death to the Dorgeshuun
 
 In Aid of the Myreque
 
 Tai Bwo Wannai Trio
+
+Watchtower
 
 Dragon Slayer
 
@@ -45,7 +35,11 @@ Troll Stronghold
 
 Grand Tree
 
+Troll Romance
+
 Haunted Mine
+
+Shilo Village
 
 Contact!
 
@@ -74,100 +68,92 @@ RFD – Subquest 4 – Freeing the Lumbridge Guide
 
 Need stats to finish
 Sea Slug
-Firemaking 30 15	
+Firemaking 30 19	
 Big Chompy Bird Hunting
-Ranged 30 8	
+Ranged 30 20	
 Making History
-Smithing 40 36	
+Smithing 40 37	
 What Lies Below
-Mining 42 39	Runecrafting 35 23	
+Runecrafting 35 23	
 Enlightened Journey
-Farming 30 25	Firemaking 20 15	
+Firemaking 20 19	
 Olaf's Quest
-Firemaking 40 15	Woodcutting 50 30	
+Firemaking 40 19	Woodcutting 50 30	
 Zogre Flesh Eaters
-Fletching 30 19	Ranged 30 8	
+Fletching 30 19	Ranged 30 20	
 My Arm's Big Adventure
-Farming 29 25	Magic 61 29	
+Magic 61 34	
 Fremennik Trials
 Crafting 40 37	Fletching 25 19	Woodcutting 40 30	
 Spirits of the Elid
-Magic 33 29	Ranged 37 8	
-Watchtower
-Mining 40 39	
+Ranged 37 20	
 Eyes of Glouphrie
-Magic 46 29	Woodcutting 45 30	
+Magic 46 34	Woodcutting 45 30	
 One Small Favour
-Agility 36 25	
-Giant Dwarf
-Firemaking 16 15	Magic 33 29	
+Agility 36 32	
 Cold War
-Agility 30 25	Construction 34 14	
+Construction 34 14	
 Animal Magnetism
-Ranged 30 8	Slayer 18 16	Woodcutting 35 30	
+Ranged 30 20	Woodcutting 35 30	
 Slug Menace
-Runecrafting 30 23	Slayer 30 16	
+Runecrafting 30 23	Slayer 30 25	
 Tears of Guthix
-Firemaking 49 15	Smithing 49 36	
+Firemaking 49 19	Smithing 49 37	
 Fairytale II - Cure a Queen
-Farming 49 25	Herblore 57 19	
+Farming 49 33	Herblore 57 19	
 Darkness of Hallowvale
-Agility 26 25	Magic 33 29	Strength 40 38	
+Strength 40 39	
 Lunar Diplomacy
-Crafting 61 37	Defence 40 32	Firemaking 49 15	Magic 65 29	Mining 60 39	Woodcutting 55 30	
+Crafting 61 37	Defence 40 32	Firemaking 49 19	Magic 65 34	Mining 60 42	Woodcutting 55 30	
 Underground Pass
-Ranged 25 8	
-Troll Romance
-Agility 28 25	
+Ranged 25 20	
 Horror From The Deep
-Agility 35 25	
-Shilo Village
-Agility 32 25	
+Agility 35 32	
 Hand in the Sand
 Crafting 49 37	
 Lost City
 Woodcutting 36 30	
 Eadgar's Ruse
-Agility 47 25	Herblore 31 19	
+Agility 47 32	Herblore 31 19	
 Royal Trouble
-Agility 40 25	Slayer 40 16	
+Agility 40 32	Slayer 40 25	
 Temple of Ikov
-Ranged 40 8	
+Ranged 40 20	
 Great Brain Robbery
-Construction 30 14	Prayer 50 35	
+Construction 30 14	Prayer 50 36	
 King's Ransom
-Defence 65 32	Magic 45 29	
+Defence 65 32	Magic 45 34	
 Between a Rock...
-Mining 40 39	Smithing 50 36	
+Smithing 50 37	
 Fremennik Isles
-Agility 40 25	Crafting 46 37	Construction 20 14	Woodcutting 56 30	
+Agility 40 32	Crafting 46 37	Construction 20 14	Woodcutting 56 30	
 Devious Minds
-Fletching 50 19	Runecrafting 50 23	Smithing 65 36	
+Fletching 50 19	Runecrafting 50 23	Smithing 65 37	
 Cabin Fever
-Agility 42 25	Crafting 45 37	Ranged 40 8	Smithing 50 36	
+Agility 42 32	Crafting 45 37	Ranged 40 20	Smithing 50 37	
 Family Crest
-Crafting 40 37	Magic 59 29	Mining 40 39	Smithing 40 36	
+Crafting 40 37	Magic 59 34	Smithing 40 37	
 Heroes' Quest
-Cooking 53 42	Fishing 53 40	Herblore 25 19	Mining 50 39	
+Cooking 53 43	Fishing 53 40	Herblore 25 19	Mining 50 42	
 Rum Deal
-Crafting 42 37	Farming 40 25	Fishing 50 40	Prayer 47 35	Slayer 42 16	
+Crafting 42 37	Farming 40 33	Fishing 50 40	Prayer 47 36	Slayer 42 25	
 Enakhra's Lament
-Crafting 50 37	Firemaking 45 15	Magic 39 29	Mining 45 39	Prayer 43 35	
+Crafting 50 37	Firemaking 45 19	Magic 39 34	Mining 45 42	Prayer 43 36	
 Monkey Madness
-Prayer 43 35	
+Prayer 43 36	
 RFD – Subquest 6 – Freeing Skrach Uglogwee 
-Firemaking 20 15	
+Firemaking 20 19	
 Regicide
-Agility 56 25	
+Agility 56 32	
 RFD – Subquest 8 – Freeing King Awowogei
-Agility 48 25	Cooking 70 42	
+Agility 48 32	Cooking 70 43	
 Desert Treasure
-Firemaking 50 15	Magic 50 29	Thieving 53 47	
+Firemaking 50 19	Magic 50 34	Thieving 53 48	
 Mourning's Ends Part I
-Agility 65 25	Ranged 60 8	Thieving 50 47	
+Agility 65 32	Ranged 60 20	Thieving 50 48	
 Grim Tales
-Agility 59 25	Farming 45 25	Herblore 52 19	Thieving 58 47	Woodcutting 71 30	
+Agility 59 32	Farming 45 33	Herblore 52 19	Thieving 58 48	Woodcutting 71 30	
 Swan Song
-Crafting 40 37	Cooking 62 42	Firemaking 42 15	Fishing 62 40	Magic 66 29	Smithing 45 36	
+Crafting 40 37	Cooking 62 43	Firemaking 42 19	Fishing 62 40	Magic 66 34	Smithing 45 37	
 Legends' Quest
-Agility 50 25	Crafting 50 37	Herblore 45 19	Magic 56 29	Mining 52 39	Prayer 43 35	Smithing 50 36	Strength 50 38	Thieving 50 47	Woodcutting 50 30	
+Agility 50 32	Crafting 50 37	Herblore 45 19	Magic 56 34	Mining 52 42	Prayer 43 36	Smithing 50 37	Strength 50 39	Thieving 50 48	Woodcutting 50 30	
