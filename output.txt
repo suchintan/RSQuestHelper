@@ -1,159 +1,77 @@
 Requirement met:
-Icthlarin's Little Helper
-
-Rat Catchers
-
-Tail of Two Cats
-
-In Search of the Myreque
-
-Shadow of the Storm
-
-Scorpion Catcher
-
-Shades Of Mort'ton
-
-Golem
-
-In Aid of the Myreque
-
-Tai Bwo Wannai Trio
-
-Watchtower
-
-Dragon Slayer
-
-Dream Mentor
-
-Fairytale I - Growing Pains
-
-Fight Arena
-
-Throne of Miscellania
-
-Troll Stronghold
-
-Grand Tree
-
-Troll Romance
-
-Haunted Mine
-
-Shilo Village
-
-Contact!
-
-Mourning's Ends Part II (The Temple Of Light)
-
-RFD – Subquest 1 – Freeing the mountain dwarf
-
-RFD – Subquest 2 – Freeing the goblins
-
-RFD – Subquest 7 – Freeing Sir Amik Varze
-
-RFD – Part 3 - Fights
-
-Roving Elves
-
-RFD – Part 1 – Helping the cook
-
-RFD – Subquest 5 – Freeing Evil Dave
-
-RFD – Subquest 3 – Freeing Pirate Pete
-
-RFD – Subquest 4 – Freeing the Lumbridge Guide
-
+Icthlarin's Little Helper	Medium	
+Rat Catchers	Medium	
+Tail of Two Cats	Medium	
+Sea Slug	Short	
+Shadow of the Storm	Medium	
+Scorpion Catcher	Long	
+In Aid of the Myreque	Medium	
+Big Chompy Bird Hunting	Short	
+Enlightened Journey	Medium	
+Tai Bwo Wannai Trio	Long	
+Spirits of the Elid	Medium	
+Watchtower	Long	
+Animal Magnetism	Short	
+Darkness of Hallowvale	Long	
+Dragon Slayer	Long	
+Dream Mentor	Short	
+Fairytale I - Growing Pains	Long	
+Fight Arena	Medium	
+Throne of Miscellania	Medium	
+Troll Stronghold	Medium	
+Grand Tree	Long	
+Underground Pass	Long	
+Troll Romance	Medium	
+Haunted Mine	Medium	
+Shilo Village	Long	
+Temple of Ikov	Long	
+Between a Rock...	Medium	
+Contact!	Medium	
+Mourning's Ends Part II (The Temple Of Light)	Long	
+RFD – Subquest 1 – Freeing the mountain dwarf	Long	
+RFD – Subquest 2 – Freeing the goblins	Long	
+RFD – Subquest 7 – Freeing Sir Amik Varze	Long	
+RFD – Part 3 - Fights	Long	
+Roving Elves	Short	
+RFD – Part 1 – Helping the cook	Long	
+RFD – Subquest 5 – Freeing Evil Dave	Long	
+RFD – Subquest 3 – Freeing Pirate Pete	Long	
+RFD – Subquest 4 – Freeing the Lumbridge Guide	Long	
+Monkey Madness	Very Long	
+RFD – Subquest 6 – Freeing Skrach Uglogwee 	Long	
 
 
 
 Need stats to finish
-Sea Slug
-Firemaking 30 19	
-Big Chompy Bird Hunting
-Ranged 30 20	
-Making History
-Smithing 40 37	
-What Lies Below
-Runecrafting 35 23	
-Enlightened Journey
-Firemaking 20 19	
-Olaf's Quest
-Firemaking 40 19	Woodcutting 50 30	
-Zogre Flesh Eaters
-Fletching 30 19	Ranged 30 20	
-My Arm's Big Adventure
-Magic 61 34	
-Fremennik Trials
-Crafting 40 37	Fletching 25 19	Woodcutting 40 30	
-Spirits of the Elid
-Ranged 37 20	
-Eyes of Glouphrie
-Magic 46 34	Woodcutting 45 30	
-One Small Favour
-Agility 36 32	
-Cold War
-Construction 34 14	
-Animal Magnetism
-Ranged 30 20	Woodcutting 35 30	
-Slug Menace
-Runecrafting 30 23	Slayer 30 25	
-Tears of Guthix
-Firemaking 49 19	Smithing 49 37	
-Fairytale II - Cure a Queen
-Farming 49 33	Herblore 57 19	
-Darkness of Hallowvale
-Strength 40 39	
-Lunar Diplomacy
-Crafting 61 37	Defence 40 32	Firemaking 49 19	Magic 65 34	Mining 60 42	Woodcutting 55 30	
-Underground Pass
-Ranged 25 20	
-Horror From The Deep
-Agility 35 32	
-Hand in the Sand
-Crafting 49 37	
-Lost City
-Woodcutting 36 30	
-Eadgar's Ruse
-Agility 47 32	Herblore 31 19	
-Royal Trouble
-Agility 40 32	Slayer 40 25	
-Temple of Ikov
-Ranged 40 20	
-Great Brain Robbery
-Construction 30 14	Prayer 50 36	
-King's Ransom
-Defence 65 32	Magic 45 34	
-Between a Rock...
-Smithing 50 37	
-Fremennik Isles
-Agility 40 32	Crafting 46 37	Construction 20 14	Woodcutting 56 30	
-Devious Minds
-Fletching 50 19	Runecrafting 50 23	Smithing 65 37	
-Cabin Fever
-Agility 42 32	Crafting 45 37	Ranged 40 20	Smithing 50 37	
-Family Crest
-Crafting 40 37	Magic 59 34	Smithing 40 37	
-Heroes' Quest
-Cooking 53 43	Fishing 53 40	Herblore 25 19	Mining 50 42	
-Rum Deal
-Crafting 42 37	Farming 40 33	Fishing 50 40	Prayer 47 36	Slayer 42 25	
-Enakhra's Lament
-Crafting 50 37	Firemaking 45 19	Magic 39 34	Mining 45 42	Prayer 43 36	
-Monkey Madness
-Prayer 43 36	
-RFD – Subquest 6 – Freeing Skrach Uglogwee 
-Firemaking 20 19	
-Regicide
-Agility 56 32	
-RFD – Subquest 8 – Freeing King Awowogei
-Agility 48 32	Cooking 70 43	
-Desert Treasure
-Firemaking 50 19	Magic 50 34	Thieving 53 48	
-Mourning's Ends Part I
-Agility 65 32	Ranged 60 20	Thieving 50 48	
-Grim Tales
-Agility 59 32	Farming 45 33	Herblore 52 19	Thieving 58 48	Woodcutting 71 30	
-Swan Song
-Crafting 40 37	Cooking 62 43	Firemaking 42 19	Fishing 62 40	Magic 66 34	Smithing 45 37	
-Legends' Quest
-Agility 50 32	Crafting 50 37	Herblore 45 19	Magic 56 34	Mining 52 42	Prayer 43 36	Smithing 50 37	Strength 50 39	Thieving 50 48	Woodcutting 50 30	
+What Lies Below	Medium	Runecrafting 35 23	
+Olaf's Quest	Short	Firemaking 40 31	Woodcutting 50 42	
+Zogre Flesh Eaters	Long	Fletching 30 22	
+My Arm's Big Adventure	Medium	Magic 61 34	
+Fremennik Trials	Long	Crafting 40 38	Fletching 25 22	
+Eyes of Glouphrie	Medium	Magic 46 34	Woodcutting 45 42	
+One Small Favour	Long	Agility 36 33	
+Cold War	Medium	Construction 34 14	
+Slug Menace	Medium	Runecrafting 30 23	Slayer 30 28	
+Tears of Guthix	Short	Firemaking 49 31	
+Fairytale II - Cure a Queen	Medium	Farming 49 33	Herblore 57 20	
+Lunar Diplomacy	Long	Crafting 61 38	Defence 40 32	Firemaking 49 31	Magic 65 34	Woodcutting 55 42	
+Horror From The Deep	Short	Agility 35 33	
+Hand in the Sand	Medium	Crafting 49 38	
+Eadgar's Ruse	Medium	Agility 47 33	Herblore 31 20	
+Royal Trouble	Medium	Agility 40 33	Slayer 40 28	
+Great Brain Robbery	Medium	Construction 30 14	Prayer 50 43	
+King's Ransom	Medium	Defence 65 32	Magic 45 34	
+Fremennik Isles	Long	Agility 40 33	Crafting 46 38	Construction 20 14	Woodcutting 56 42	
+Devious Minds	Short	Fletching 50 22	Runecrafting 50 23	Smithing 65 50	
+Cabin Fever	Medium	Agility 42 33	Crafting 45 38	
+Family Crest	Long	Crafting 40 38	Magic 59 34	
+Heroes' Quest	Long	Cooking 53 43	Fishing 53 40	Herblore 25 20	
+Rum Deal	Medium	Crafting 42 38	Farming 40 33	Fishing 50 40	Prayer 47 43	Slayer 42 28	
+Enakhra's Lament	Medium	Crafting 50 38	Firemaking 45 31	Magic 39 34	
+Regicide	Long	Agility 56 33	
+RFD – Subquest 8 – Freeing King Awowogei	Long	Agility 48 33	Cooking 70 43	
+Desert Treasure	Long	Firemaking 50 31	Magic 50 34	
+Mourning's Ends Part I	Long	Agility 65 33	Ranged 60 44	
+Grim Tales	Short-Medium	Agility 59 33	Farming 45 33	Herblore 52 20	Thieving 58 53	Woodcutting 71 42	
+Swan Song	Medium	Crafting 40 38	Cooking 62 43	Firemaking 42 31	Fishing 62 40	Magic 66 34	
+Legends' Quest	Long	Agility 50 33	Crafting 50 38	Herblore 45 20	Magic 56 34	Strength 50 42	Woodcutting 50 42	
