@@ -1,42 +1,30 @@
 Requirement met:
-Icthlarin's Little Helper	Medium	
-Rat Catchers	Medium	
-Tail of Two Cats	Medium	
 Sea Slug	Short	
-Shadow of the Storm	Medium	
 Scorpion Catcher	Long	
 In Aid of the Myreque	Medium	
 Big Chompy Bird Hunting	Short	
-Enlightened Journey	Medium	
 Tai Bwo Wannai Trio	Long	
 Spirits of the Elid	Medium	
 Watchtower	Long	
+One Small Favour	Long	
 Animal Magnetism	Short	
 Darkness of Hallowvale	Long	
-Dragon Slayer	Long	
 Dream Mentor	Short	
 Fairytale I - Growing Pains	Long	
-Fight Arena	Medium	
 Throne of Miscellania	Medium	
 Troll Stronghold	Medium	
-Grand Tree	Long	
 Underground Pass	Long	
 Troll Romance	Medium	
+Horror From The Deep	Short	
 Haunted Mine	Medium	
 Shilo Village	Long	
 Temple of Ikov	Long	
 Between a Rock...	Medium	
 Contact!	Medium	
 Mourning's Ends Part II (The Temple Of Light)	Long	
-RFD – Subquest 1 – Freeing the mountain dwarf	Long	
-RFD – Subquest 2 – Freeing the goblins	Long	
 RFD – Subquest 7 – Freeing Sir Amik Varze	Long	
 RFD – Part 3 - Fights	Long	
 Roving Elves	Short	
-RFD – Part 1 – Helping the cook	Long	
-RFD – Subquest 5 – Freeing Evil Dave	Long	
-RFD – Subquest 3 – Freeing Pirate Pete	Long	
-RFD – Subquest 4 – Freeing the Lumbridge Guide	Long	
 Monkey Madness	Very Long	
 RFD – Subquest 6 – Freeing Skrach Uglogwee 	Long	
 
@@ -44,34 +32,32 @@ RFD – Subquest 6 – Freeing Skrach Uglogwee 	Long
 
 Need stats to finish
 What Lies Below	Medium	Runecrafting 35 23	
-Olaf's Quest	Short	Firemaking 40 31	Woodcutting 50 42	
+Olaf's Quest	Short	Woodcutting 50 44	
 Zogre Flesh Eaters	Long	Fletching 30 22	
-My Arm's Big Adventure	Medium	Magic 61 34	
-Fremennik Trials	Long	Crafting 40 38	Fletching 25 22	
-Eyes of Glouphrie	Medium	Magic 46 34	Woodcutting 45 42	
-One Small Favour	Long	Agility 36 33	
+My Arm's Big Adventure	Medium	Magic 61 39	
+Fremennik Trials	Long	Fletching 25 22	
+Eyes of Glouphrie	Medium	Magic 46 39	Woodcutting 45 44	
 Cold War	Medium	Construction 34 14	
 Slug Menace	Medium	Runecrafting 30 23	Slayer 30 28	
-Tears of Guthix	Short	Firemaking 49 31	
-Fairytale II - Cure a Queen	Medium	Farming 49 33	Herblore 57 20	
-Lunar Diplomacy	Long	Crafting 61 38	Defence 40 32	Firemaking 49 31	Magic 65 34	Woodcutting 55 42	
-Horror From The Deep	Short	Agility 35 33	
-Hand in the Sand	Medium	Crafting 49 38	
-Eadgar's Ruse	Medium	Agility 47 33	Herblore 31 20	
-Royal Trouble	Medium	Agility 40 33	Slayer 40 28	
-Great Brain Robbery	Medium	Construction 30 14	Prayer 50 43	
-King's Ransom	Medium	Defence 65 32	Magic 45 34	
-Fremennik Isles	Long	Agility 40 33	Crafting 46 38	Construction 20 14	Woodcutting 56 42	
+Tears of Guthix	Short	Firemaking 49 41	
+Fairytale II - Cure a Queen	Medium	Farming 49 35	Herblore 57 24	
+Lunar Diplomacy	Long	Crafting 61 40	Firemaking 49 41	Magic 65 39	Woodcutting 55 44	
+Hand in the Sand	Medium	Crafting 49 40	
+Eadgar's Ruse	Medium	Agility 47 38	Herblore 31 24	
+Royal Trouble	Medium	Agility 40 38	Slayer 40 28	
+Great Brain Robbery	Medium	Construction 30 14	Prayer 50 44	
+King's Ransom	Medium	Defence 65 40	Magic 45 39	
+Fremennik Isles	Long	Agility 40 38	Crafting 46 40	Construction 20 14	Woodcutting 56 44	
 Devious Minds	Short	Fletching 50 22	Runecrafting 50 23	Smithing 65 50	
-Cabin Fever	Medium	Agility 42 33	Crafting 45 38	
-Family Crest	Long	Crafting 40 38	Magic 59 34	
-Heroes' Quest	Long	Cooking 53 43	Fishing 53 40	Herblore 25 20	
-Rum Deal	Medium	Crafting 42 38	Farming 40 33	Fishing 50 40	Prayer 47 43	Slayer 42 28	
-Enakhra's Lament	Medium	Crafting 50 38	Firemaking 45 31	Magic 39 34	
-Regicide	Long	Agility 56 33	
-RFD – Subquest 8 – Freeing King Awowogei	Long	Agility 48 33	Cooking 70 43	
-Desert Treasure	Long	Firemaking 50 31	Magic 50 34	
-Mourning's Ends Part I	Long	Agility 65 33	Ranged 60 44	
-Grim Tales	Short-Medium	Agility 59 33	Farming 45 33	Herblore 52 20	Thieving 58 53	Woodcutting 71 42	
-Swan Song	Medium	Crafting 40 38	Cooking 62 43	Firemaking 42 31	Fishing 62 40	Magic 66 34	
-Legends' Quest	Long	Agility 50 33	Crafting 50 38	Herblore 45 20	Magic 56 34	Strength 50 42	Woodcutting 50 42	
+Cabin Fever	Medium	Agility 42 38	Crafting 45 40	
+Family Crest	Long	Magic 59 39	
+Heroes' Quest	Long	Cooking 53 43	Fishing 53 40	Herblore 25 24	
+Rum Deal	Medium	Crafting 42 40	Farming 40 35	Fishing 50 40	Prayer 47 44	Slayer 42 28	
+Enakhra's Lament	Medium	Crafting 50 40	Firemaking 45 41	
+Regicide	Long	Agility 56 38	
+RFD – Subquest 8 – Freeing King Awowogei	Long	Agility 48 38	Cooking 70 43	
+Desert Treasure	Long	Firemaking 50 41	Magic 50 39	
+Mourning's Ends Part I	Long	Agility 65 38	Ranged 60 44	
+Grim Tales	Short-Medium	Agility 59 38	Farming 45 35	Herblore 52 24	Thieving 58 54	Woodcutting 71 44	
+Swan Song	Medium	Cooking 62 43	Firemaking 42 41	Fishing 62 40	Magic 66 39	
+Legends' Quest	Long	Agility 50 38	Crafting 50 40	Herblore 45 24	Magic 56 39	Strength 50 46	Woodcutting 50 44	
