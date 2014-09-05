@@ -114,7 +114,7 @@ public class Quest implements Comparable<Quest>{
 //        s += isFinished() ? "Complete" : "Incomplete";
 //        return s;
 
-        String s = getName() + "\n";
+        String s = getName() + "\t" + getLength() + "\t";
 
         for(Skill skill : missingSkills) {
             s = s + skill.toString() + " " + getLevels().getSkillLevel(skill) + " " + playerLevels.getSkillLevel(skill) + "\t";
