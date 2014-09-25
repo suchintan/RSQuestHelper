@@ -93,6 +93,25 @@ public class QuestFinder {
             System.out.println(q.toString());
         }
 
+        Map<Skill, Integer> skills = new HashMap<Skill, Integer>();
+        for(Quest q : requirementsNotMet){
+            Skill[] sk = q.getMissingSkills();
+            Levels l = q.getLevels();
+            for(Skill s : sk){
+                if(!skills.containsKey(s)){
+                    skills.put(s, 0);
+                }
+
+                if(skills.get(s) < l.getSkillLevel(s)){
+                    skills.put(s, l.getSkillLevel(s));
+                }
+            }
+        }
+
+        for(Skill s : skills.keySet()){
+            System.out.println(s + " " + skills.get(s) + " " + player.getSkillLevel(s));
+        }
+
     }
 
     private static List<String> getQuestDataFromFile(String filename) throws Exception{

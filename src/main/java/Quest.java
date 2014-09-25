@@ -16,10 +16,10 @@ public class Quest implements Comparable<Quest>{
     private Skill[] missingSkills;
     private Levels playerLevels;
 
-
     public Quest(){
 
     }
+
 
     public String getName() {
         return name;
@@ -87,6 +87,14 @@ public class Quest implements Comparable<Quest>{
 
     public boolean isCanBeCompleted() {
         return canBeCompleted;
+    }
+
+    public Skill[] getMissingSkills() {
+        return missingSkills;
+    }
+
+    public void setMissingSkills(Skill[] missingSkills) {
+        this.missingSkills = missingSkills;
     }
 
     public void setCanBeCompleted(Levels playerLevels) {
