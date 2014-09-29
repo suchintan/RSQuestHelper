@@ -56,8 +56,8 @@ public class QuestFinder {
         String[] names = "\"Attack\", \"Defence\", \"Strength\",\"Hitpoints\", \"Ranged\", \"Prayer\",\"Magic\", \"Cooking\", \"Woodcutting\",\"Fletching\", \"Fishing\", \"Firemaking\",\"Crafting\", \"Smithing\", \"Mining\",\"Herblore\", \"Agility\", \"Thieving\",\"Slayer\", \"Farming\", \"Runecrafting\",\"Hunter\", \"Construction\""
                 .replaceAll("\"", "").trim().split(",");
 
-
-        for(int c = 0; c < levels.size(); c++){
+        System.out.println(levels);
+        for(int c = 0; c < names.length; c++){
             map.put(names[c].trim(), Integer.parseInt(levels.get(c).split(",")[1]));
         }
 
