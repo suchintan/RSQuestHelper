@@ -1,66 +1,41 @@
-[166526,60,273809, 139752,47,75199, 205791,54,151002, 207385,54,157243, 191413,48,87676, 101924,46,69186, 78795,69,671573, 143296,51,113739, 113121,58,240024, 120039,46,73217, 102424,58,230983, 103281,49,91790, 87148,52,126692, 13588,65,465257, 37246,60,285468, 82253,40,37921, 128078,39,34941, 29758,55,170044, 126315,41,41657, 60170,36,24907, 99982,23,6652, 12246,72,907635, 97263,17,3362, 60692,4, -1,-1]
+[140125,60,280902, 116142,52,135612, 186134,59,252081, 198426,56,190494, 191797,50,101357, 92428,48,83435, 58766,74,1178766, 86454,63,400154, 111671,59,257975, 120730,47,76228, 85483,62,334618, 59780,50,103715, 43954,61,306023, 12698,65,480151, 31066,61,303015, 74030,43,50657, 96860,45,62362, 24838,56,188279, 112495,45,65792, 48319,42,46384, 68201,34,21842, 11388,73,1048793, 75431,29,13035, 40605,10, -1,-1]
 Requirement met:
 Scorpion Catcher	Long	
-In Aid of the Myreque	Medium	
 Tai Bwo Wannai Trio	Long	
-Olaf's Quest	Short	
 My Arm's Big Adventure	Medium	
-Eyes of Glouphrie	Medium	
-Animal Magnetism	Short	
-Darkness of Hallowvale	Long	
 Dream Mentor	Short	
-Fairytale I - Growing Pains	Long	
-Throne of Miscellania	Medium	
 Underground Pass	Long	
-Troll Romance	Medium	
-Horror From The Deep	Short	
-Haunted Mine	Medium	
-Hand in the Sand	Medium	
-Between a Rock...	Medium	
-Enakhra's Lament	Medium	
-Contact!	Medium	
 Mourning's Ends Part II (The Temple Of Light)	Long	
 RFD – Subquest 7 – Freeing Sir Amik Varze	Long	
 RFD – Part 3 - Fights	Long	
 Roving Elves	Short	
+Desert Treasure	Long	
+Swan Song	Medium	
 
 
 
 Need stats to finish
-What Lies Below	Medium	Runecrafting 35 23	
-Cold War	Medium	Construction 34 17	
-Slug Menace	Medium	Runecrafting 30 23	
-Fairytale II - Cure a Queen	Medium	Farming 49 36	Herblore 57 40	
-Lunar Diplomacy	Long	Crafting 61 52	
-Eadgar's Ruse	Medium	Agility 47 39	
-Royal Trouble	Medium	Agility 40 39	
-Great Brain Robbery	Medium	Construction 30 17	Prayer 50 46	
-King's Ransom	Medium	Defence 65 47	
-Fremennik Isles	Long	Agility 40 39	Construction 20 17	
-Devious Minds	Short	Fletching 50 46	Runecrafting 50 23	
-Cabin Fever	Medium	Agility 42 39	
-Heroes' Quest	Long	Cooking 53 51	
-Rum Deal	Medium	Farming 40 36	Prayer 47 46	Slayer 42 41	
-Regicide	Long	Agility 56 39	
-RFD – Subquest 8 – Freeing King Awowogei	Long	Agility 48 39	Cooking 70 51	
-Desert Treasure	Long	Firemaking 50 49	
-Mourning's Ends Part I	Long	Agility 65 39	Ranged 60 48	
-Grim Tales	Short-Medium	Agility 59 39	Farming 45 36	Herblore 52 40	Thieving 58 55	Woodcutting 71 58	
-Swan Song	Medium	Cooking 62 51	Fishing 62 58	
-Legends' Quest	Long	Agility 50 39	Herblore 45 40	
-Runecrafting 50 23
-Herblore 57 40
-Farming 49 36
-Defence 65 47
-Crafting 61 52
-Woodcutting 71 58
-Cooking 70 51
-Agility 65 39
-Ranged 60 48
-Firemaking 50 49
-Fletching 50 46
-Thieving 58 55
-Slayer 42 41
-Construction 34 17
-Fishing 62 58
-Prayer 50 46
+What Lies Below	Medium	Runecrafting 35 34	
+Cold War	Medium	Construction 34 29	
+Fairytale II - Cure a Queen	Medium	Farming 49 42	Herblore 57 43	
+Eadgar's Ruse	Medium	Agility 47 45	
+Great Brain Robbery	Medium	Construction 30 29	Prayer 50 48	
+King's Ransom	Medium	Defence 65 52	
+Devious Minds	Short	Fletching 50 47	Runecrafting 50 34	
+Regicide	Long	Agility 56 45	
+RFD – Subquest 8 – Freeing King Awowogei	Long	Agility 48 45	Cooking 70 63	
+Mourning's Ends Part I	Long	Agility 65 45	Ranged 60 50	
+Grim Tales	Short-Medium	Agility 59 45	Farming 45 42	Herblore 52 43	Thieving 58 56	Woodcutting 71 59	
+Legends' Quest	Long	Agility 50 45	Herblore 45 43	
+Construction 34 29
+Herblore 57 43
+Thieving 58 56
+Ranged 60 50
+Runecrafting 50 34
+Defence 65 52
+Prayer 50 48
+Farming 49 42
+Woodcutting 71 59
+Cooking 70 63
+Fletching 50 47
+Agility 65 45
