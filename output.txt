@@ -1,41 +1,14 @@
-[140125,60,280902, 116142,52,135612, 186134,59,252081, 198426,56,190494, 191797,50,101357, 92428,48,83435, 58766,74,1178766, 86454,63,400154, 111671,59,257975, 120730,47,76228, 85483,62,334618, 59780,50,103715, 43954,61,306023, 12698,65,480151, 31066,61,303015, 74030,43,50657, 96860,45,62362, 24838,56,188279, 112495,45,65792, 48319,42,46384, 68201,34,21842, 11388,73,1048793, 75431,29,13035, 40605,10, -1,-1]
+[141999,60,289778, 87641,65,449454, 119570,71,814862, 137838,67,569735, 152997,60,273937, 50468,60,274627, 51050,78,1707955, 52984,70,767434, 88435,64,411904, 118146,50,104395, 79003,63,377545, 61534,50,104020, 19831,66,536239, 13849,65,482511, 33553,61,304105, 36556,57,217805, 41778,59,254643, 19431,59,250870, 80688,56,186089, 31318,50,103864, 58415,39,34003, 11145,74,1180353, 64134,40,40011, 34348,16, -1,-1]
 Requirement met:
 Scorpion Catcher	Long	
-Tai Bwo Wannai Trio	Long	
-My Arm's Big Adventure	Medium	
+Fairytale II - Cure a Queen	Medium	
 Dream Mentor	Short	
-Underground Pass	Long	
-Mourning's Ends Part II (The Temple Of Light)	Long	
-RFD – Subquest 7 – Freeing Sir Amik Varze	Long	
-RFD – Part 3 - Fights	Long	
-Roving Elves	Short	
-Desert Treasure	Long	
-Swan Song	Medium	
+King's Ransom	Medium	
 
 
 
 Need stats to finish
-What Lies Below	Medium	Runecrafting 35 34	
-Cold War	Medium	Construction 34 29	
-Fairytale II - Cure a Queen	Medium	Farming 49 42	Herblore 57 43	
-Eadgar's Ruse	Medium	Agility 47 45	
-Great Brain Robbery	Medium	Construction 30 29	Prayer 50 48	
-King's Ransom	Medium	Defence 65 52	
-Devious Minds	Short	Fletching 50 47	Runecrafting 50 34	
-Regicide	Long	Agility 56 45	
-RFD – Subquest 8 – Freeing King Awowogei	Long	Agility 48 45	Cooking 70 63	
-Mourning's Ends Part I	Long	Agility 65 45	Ranged 60 50	
-Grim Tales	Short-Medium	Agility 59 45	Farming 45 42	Herblore 52 43	Thieving 58 56	Woodcutting 71 59	
-Legends' Quest	Long	Agility 50 45	Herblore 45 43	
-Construction 34 29
-Herblore 57 43
-Thieving 58 56
-Ranged 60 50
-Runecrafting 50 34
-Defence 65 52
-Prayer 50 48
-Farming 49 42
-Woodcutting 71 59
-Cooking 70 63
-Fletching 50 47
-Agility 65 45
+Devious Minds	Short	Runecrafting 50 39	
+Grim Tales	Short-Medium	Woodcutting 71 64	
+Woodcutting 71 64
+Runecrafting 50 39
