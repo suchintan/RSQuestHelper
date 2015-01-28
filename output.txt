@@ -1,12 +1,99 @@
-[142897,60,289788, 88267,65,449465, 117827,71,841758, 137765,67,578680, 153984,60,273953, 46140,60,283061, 51625,78,1708474, 53305,70,767538, 64822,69,678767, 118997,50,104395, 79524,63,377545, 61944,50,104020, 20048,66,536239, 14000,65,482511, 33006,61,306655, 36331,57,221541, 33883,62,337109, 19395,59,253417, 81249,56,186089, 31578,50,103864, 30181,50,101421, 11226,74,1180569, 62845,42,47751, 34691,16, -1,-1]
+[45602,78,1660732, 83017,70,740121, 82427,80,2017935, 73362,79,1920833, 67980,75,1289384, 49566,61,308436, 24707,92,6757044, 32053,75,1215123, 65540,70,798347, 50727,75,1329173, 43844,71,863040, 17912,60,275530, 11692,75,1223467, 17360,65,493841, 40473,61,307095, 19434,67,557229, 11113,71,878954, 7230,72,900073, 41407,69,735232, 17684,61,324761, 23894,54,153424, 10413,78,1797808, 33223,50,107761, 19310,46, -1,-1]
 Requirement met:
+Icthlarin's Little Helper	Medium	
+Rat Catchers	Medium	
+Tail of Two Cats	Medium	
+Wanted!	Short	
+Witch's House	Medium	
+Merlin's Crystal	Long	
+Mountain Daughter	Medium	
+Tribal Totem	Medium	
+Garden of Tranquillity	Medium	
+In Search of the Myreque	Short	
+Feud	Medium	
+Holy Grail	Long	
+Sea Slug	Short	
+Shadow of the Storm	Medium	
+Tourist Trap	Long	
 Scorpion Catcher	Long	
+Shades Of Mort'ton	Short	
+Forgettable Tale of a Drunken Dwarf	Medium	
+Another Slice of H.A.M.	Medium	
+Lost Tribe	Medium	
+Creature of Fenkenstrain	Medium	
+Golem	Medium	
+Death to the Dorgeshuun	Medium	
+In Aid of the Myreque	Medium	
+Big Chompy Bird Hunting	Short	
+Making History	Medium	
+What Lies Below	Medium	
+Enlightened Journey	Medium	
+Tai Bwo Wannai Trio	Long	
+Olaf's Quest	Short	
+Zogre Flesh Eaters	Long	
+My Arm's Big Adventure	Medium	
+Fremennik Trials	Long	
+Spirits of the Elid	Medium	
+Watchtower	Long	
+Eyes of Glouphrie	Medium	
+One Small Favour	Long	
+Giant Dwarf	Medium	
+Cold War	Medium	
+Animal Magnetism	Short	
+Slug Menace	Medium	
+Tears of Guthix	Short	
+Fairytale II - Cure a Queen	Medium	
+Darkness of Hallowvale	Long	
+Lunar Diplomacy	Long	
+Dragon Slayer	Long	
 Dream Mentor	Short	
+Fairytale I - Growing Pains	Long	
+Fight Arena	Medium	
+Throne of Miscellania	Medium	
+Troll Stronghold	Medium	
+Grand Tree	Long	
+Underground Pass	Long	
+Troll Romance	Medium	
+Horror From The Deep	Short	
+Haunted Mine	Medium	
+Shilo Village	Long	
+Hand in the Sand	Medium	
+Lost City	Medium	
+Eadgar's Ruse	Medium	
+Royal Trouble	Medium	
+Temple of Ikov	Long	
+Great Brain Robbery	Medium	
 King's Ransom	Medium	
+Between a Rock...	Medium	
+Fremennik Isles	Long	
 Devious Minds	Short	
+Cabin Fever	Medium	
+Family Crest	Long	
+Heroes' Quest	Long	
+Rum Deal	Medium	
+Enakhra's Lament	Medium	
+Contact!	Medium	
+Mourning's Ends Part II (The Temple Of Light)	Long	
+RFD – Subquest 1 – Freeing the mountain dwarf	Long	
+RFD – Subquest 2 – Freeing the goblins	Long	
+RFD – Subquest 7 – Freeing Sir Amik Varze	Long	
+RFD – Part 3 - Fights	Long	
+Roving Elves	Short	
+RFD – Part 1 – Helping the cook	Long	
+RFD – Subquest 5 – Freeing Evil Dave	Long	
+RFD – Subquest 3 – Freeing Pirate Pete	Long	
+RFD – Subquest 4 – Freeing the Lumbridge Guide	Long	
+Monkey Madness	Very Long	
+RFD – Subquest 6 – Freeing Skrach Uglogwee 	Long	
+Regicide	Long	
+RFD – Subquest 8 – Freeing King Awowogei	Long	
+Desert Treasure	Long	
+Mourning's Ends Part I	Long	
+Swan Song	Medium	
+Legends' Quest	Long	
 
 
 
 Need stats to finish
-Grim Tales	Short-Medium	Woodcutting 71 69	
-Woodcutting 71 69
+Grim Tales	Short-Medium	Woodcutting 71 70	
+Woodcutting 71 70
